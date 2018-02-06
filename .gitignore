@@ -1,0 +1,89 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+#*.pdf
+*.pyc
+__pycache__
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.tgz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Images #
+##########
+*.png
+
+# Intermidiate Files #
+######################
+*.aux
+*.toc
+*.ind
+*.idx
+*.ilg
+*.bbl
+*.blg
+*.lot
+*.lof
+*.snm
+*.nav
+*.out
+*.vrb
+*.run.xml
+*.bcf
+*.diff
+*.new
+\#*\# # emacs files
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.db
+*.db-journal
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archive files #
+#################
+*.save
+*.sav
+*.bak
+*.back
+*.orig
+*.original
+*~
+
+# Eclipse #
+###########
+.pydevproject
+
+# Pypi build and Sphinx files #
+######################
+build/
+**/*egg
+**/*.egg-info
+
