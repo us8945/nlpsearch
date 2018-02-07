@@ -78,12 +78,12 @@ optional arguments:
 Example search runs:
 ======================================================
 - Run search with "-t" flog equals to {"0":task-2, "1":task-3, "2":task-4}. From command line:
-   python search.py -t 0  compensation losses earned
-   python search.py -t 1  compensation losses earned
-   python search.py -t 2  compensation losses earned
+   * python search.py -t 0  compensation losses earned
+   * python search.py -t 1  compensation losses earned
+   * python search.py -t 2  compensation losses earned
    
-   python search.py -t 1 political crisis in Africa will cause unrest   
-   python search.py -t 1 Iran Iraq war impact on oil prices
-   python search.py -t 1 river bank needed repair
-   python search.py -t 1 Boeing and airbus deals
-   python search.py -t 1 africa development and expansion project
+   * python search.py -t 1 political crisis in Africa will cause unrest   
+   * python search.py -t 1 Iran Iraq war impact on oil prices
+   * python search.py -t 1 river bank needed repair
+   * python search.py -t 1 Boeing and airbus deals
+   * python search.py -t 1 africa development and expansion project
