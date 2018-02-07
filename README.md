@@ -66,13 +66,13 @@ positional arguments:
   search_pattern        One or more words to search.
 
 optional arguments:
-  -h, --help            show this help message and exit
-  --type {0,1,2}, -t {0,1,2}
+  * -h, --help            show this help message and exit
+  * --type {0,1,2}, -t {0,1,2}
                         Search type: 0: basic, 1: advanced, and 2: expert.
-  --results_cnt Q_CNT, -c Q_CNT
+  * --results_cnt Q_CNT, -c Q_CNT
                         Limit number of results from SOLR query
-  --verbose, -v         Sets verbose mode. Prints input and generated Solr query
-  --art_title, -a       Set to skip article title print
+  * --verbose, -v         Sets verbose mode. Prints input and generated Solr query
+  * --art_title, -a       Set to skip article title print
   *************************************************************************************************************
   
 Example search runs:
